@@ -1,2 +1,2 @@
 # Aoba-Update-Tracker
-When was the last Aoba Client change?
+When was the last Aoba Client update?
